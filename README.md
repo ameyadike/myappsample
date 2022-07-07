@@ -1,3 +1,5 @@
-#MyApp
+# MyApp
 
-This is my app.
+This is a sample repository.
+
+## To demonstrate git.
